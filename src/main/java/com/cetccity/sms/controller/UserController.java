@@ -7,4 +7,7 @@ package com.cetccity.sms.controller;
  */
 public class UserController
 {
+	public void test(){
+
+	}
 }
