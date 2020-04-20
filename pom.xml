@@ -36,38 +36,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--motan-->
-		<dependency>
-			<groupId>com.weibo</groupId>
-			<artifactId>motan-core</artifactId>
-			<version>0.3.0</version>
-		</dependency>
-		<dependency>
-			<groupId>com.weibo</groupId>
-			<artifactId>motan-transport-netty</artifactId>
-			<version>0.3.0</version>
-		</dependency>
-		<!-- only needed for spring-based features -->
-		<dependency>
-			<groupId>com.weibo</groupId>
-			<artifactId>motan-springsupport</artifactId>
-			<version>0.3.0</version>
-		</dependency>
-		<dependency>
-			<groupId>com.weibo</groupId>
-			<artifactId>motan-registry-zookeeper</artifactId>
-			<version>0.3.0</version>
-		</dependency>
-		<!--<dependency>-->
-			<!--<groupId>com.github.chenxing2.motan</groupId>-->
-			<!--<artifactId>spring-boot-starter-motan</artifactId>-->
-			<!--<version>0.1</version>-->
-		<!--</dependency>-->
-		<dependency>
-			<groupId>com.cetccity.motan</groupId>
-			<artifactId>spring-boot-starter-motan</artifactId>
-			<version>1.0.0</version>
-		</dependency>
+
 
 	</dependencies>
 

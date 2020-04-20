@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Bean;
 import com.weibo.api.motan.common.MotanConstants;
 import com.weibo.api.motan.util.MotanSwitcherUtil;
 
-@EnableAutoConfiguration
+
 @SpringBootApplication
 public class SpringBootRpcServerDemo
 {
