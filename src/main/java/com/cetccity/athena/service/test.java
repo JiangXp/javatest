@@ -11,4 +11,5 @@ public interface test
 	 * @return
 	 */
 	public String test(String name);
+	public void test();
 }
