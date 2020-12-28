@@ -11,5 +11,9 @@ public interface test
 	 * @return
 	 */
 	public String test(String name);
+
+	/**
+	 * hhhhh
+	 */
 	public void test();
 }
