@@ -5,5 +5,10 @@ package com.cetccity.athena.service;
  */
 public interface test
 {
+	/**
+	 * test
+	 * @param name
+	 * @return
+	 */
 	public String test(String name);
 }
