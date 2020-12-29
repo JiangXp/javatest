@@ -13,7 +13,7 @@ public interface test
 	public String test(String name);
 
 	/**
-	 * hhhhh
+	 * hhhhhjames
 	 */
 	public void test();
 }
